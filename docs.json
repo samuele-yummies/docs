@@ -15,7 +15,7 @@
         "groups": [
           {
             "group": "Inizia qui",
-            "pages": ["index"]
+            "pages": ["index", "utenti"]
           }
         ]
       }
